@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Networking, Python, Html, JavaScript**
 
-- 📝 I regularly write articles on [www.howmao.com](www.howmao.com)
+- 📝 I regularly write articles on [www.howmao.com](https://www.howmao.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
